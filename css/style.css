@@ -1,0 +1,33 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f5f7fa;
+  padding-top: 50px;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 60%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.available {
+  color: green;
+  font-weight: bold;
+}
+
+.issued {
+  color: red;
+  font-weight: bold;
+}
+
+input {
+  padding: 8px;
+  width: 200px;
+  margin-bottom: 20px;
+}
